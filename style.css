@@ -426,8 +426,8 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 }
 #blog .blogcard h2{
     font-size: 22px;
-    color: #000000;
-    margin-top: 0;
+    color: #121212;
+    margin-top: 8px;
     text-align: left;
     padding-top: 5px;
     font-weight: 600;
