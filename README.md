@@ -1,4 +1,5 @@
 # Hotel Website 🏨
+- **[Hotel Website](https://nikhilsharma28.github.io/hotel-website/)** — Responsive hotel website
 
 A responsive hotel website built using HTML and CSS, featuring hotel information, rooms, a gallery, and a contact section.
 
