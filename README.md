@@ -18,8 +18,7 @@ A responsive hotel website built using HTML and CSS, featuring hotel information
 - Google Fonts
 
 ## 📸 Website Preview
-
-<!-- Add your website screenshot here later -->
+![Hotel Website Preview](Screenshot%202026-10-11%20203937.png)
 
 ## 🎯 Project Purpose
 
